@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Soft drop shadow behind cap -->
+    <path
+        android:fillColor="#1500D8FF"
+        android:pathData="M54,26 L84,42 L54,58 L24,42 Z" />
+    
+    <!-- Primary Mortarboard Diamond -->
+    <path
+        android:fillColor="#00D8FF"
+        android:pathData="M54,28 L82,43 L54,58 L26,43 Z" />
+
+    <!-- Skull Cap Base support underneath -->
+    <path
+        android:fillColor="#00A1BA"
+        android:pathData="M38,49 L38,62 C38,68 70,68 70,62 L70,49 C64,53 44,53 38,49 Z" />
+
+    <!-- Tassel string hanging down -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,43 L32,53 L32,68" />
+
+    <!-- Tassel Fringe drop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,68 H34 V74 H30 Z" />
+</vector>

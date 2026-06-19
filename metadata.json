@@ -1,0 +1,6 @@
+{
+  "name": "OFPPT Focus",
+  "description": "An AI-powered academic companion, task planner, and study assistant designed specifically for OFPPT students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
